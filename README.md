@@ -11,7 +11,7 @@ O intuito do projeto foi criar uma página de Login responsiva.
 - Estrutura HTML, utilização de *label, inputs*;
 - Estilização com CSS, utilizando *FlexBox*;
 - Etilização com CSS, utilizando *SVG animado*;
-- Responsividade, utilizando *MediaQuery*;
+- Responsividade, utilizando *MediaQuery.*
 
 ## **Previews**:
 
